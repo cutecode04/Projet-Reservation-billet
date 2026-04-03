@@ -3,7 +3,7 @@ package com.example.reservation.View;
 import javax.swing.*;
 
 public class frmPrincipale extends JFrame {
-    private JPanel panel1=new JPanel();
+    private JPanel panel1;
 
     public frmPrincipale() {
         setTitle("Système de Réservation");
